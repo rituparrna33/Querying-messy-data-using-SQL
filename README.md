@@ -10,7 +10,7 @@
 
 In this notebook, I will query messy data using MySQL and visualise insights using Tableau.
 
-![]([(https://twitter.com/USDA_ARS/status/1255855535070511106/photo/1))]
+![]([(https://twitter.com/USDA_ARS/status/1255855535070511106/photo/1)])
 
 <!-- Add a demo for your project -->
 
