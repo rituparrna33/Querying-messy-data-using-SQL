@@ -2,15 +2,15 @@
 
 <!-- Add banner here -->
 
-# Analyzing failed orders in Gett cab app
+#  Querying-messy-data-using-SQL
 
 <!-- Add buttons here -->
 
 <!-- Describe your project in brief -->
 
-In this notebook, we will analyze the reasons for order failures in Gett Cab App.
+In this notebook, I will query messy data using MySQL and visualise insights using Tableau.
 
-![](https://parkinsurance.co.uk/wp-content/uploads/2015/07/get-taxi-covent-garden.jpeg)
+![]([https://parkinsurance.co.uk/wp-content/uploads/2015/07/get-taxi-covent-garden.jpeg](https://twitter.com/USDA_ARS/status/1255855535070511106/photo/1))
 
 <!-- Add a demo for your project -->
 
