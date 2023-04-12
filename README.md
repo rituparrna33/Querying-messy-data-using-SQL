@@ -2,7 +2,7 @@
 
 <!-- Add banner here -->
 
-#  Querying-messy-data-using-SQL
+#  Querying and visualising -messy-data-using-SQL and Tableau
 
 <!-- Add buttons here -->
 
