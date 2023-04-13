@@ -8,9 +8,10 @@
 
 <!-- Describe your project in brief -->
 
+
 In this notebook, I will query messy data using MySQL and visualise insights using Tableau.
 
-![]([(https://twitter.com/USDA_ARS/status/1255855535070511106/photo/1)])
+![](https://www.sgs.com/-/media/sgscorp/images/health-and-nutrition/mixed-nuts-and-dried-fruits-in-wooden-bowl-on-wooden-background-top-view-banner-healthy-snack--mix-o.cdn.en-GB.1.jpg)
 
 <!-- Add a demo for your project -->
 
